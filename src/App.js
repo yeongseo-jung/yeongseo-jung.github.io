@@ -17,7 +17,7 @@ function App() {
   // console.log = console.warn = console.error = () => {};
 
   return (
-    <BrowserRouter basename='/yeongseo-jung.github.io'>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div className="app">
       <Router>
         <ScrollToTop/>
