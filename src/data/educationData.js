@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: '순천 매산여자 고등학교',
+        course: '고등학교',
+        startYear: '2017',
+        endYear: '2020'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: '동양미래대학교',
+        course: '전문학사 과정',
+        startYear: '2020',
+        endYear: '2023'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: '동양미래대학교',
+        course: '전공심화 과정',
+        startYear: '2023',
+        endYear: ''
     },
 ]

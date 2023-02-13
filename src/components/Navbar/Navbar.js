@@ -241,7 +241,6 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
                                     </span>
                                 </div>
                             </NavLink>
