@@ -1,4 +1,3 @@
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
 {
   "name": "developer-portfolio",
   "version": "0.1.0",

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Redirect, BrowserRouter } from 'react-router-dom';
 
 import { ThemeContext } from './contexts/ThemeContext';
 import { Main, ProjectPage } from './pages'
@@ -17,6 +17,7 @@ function App() {
   // console.log = console.warn = console.error = () => {};
 
   return (
+    <BrowserRouter basename='/yeongseo-jung.github.io'>
     <div className="app">
       <Router>
         <ScrollToTop/>
@@ -28,6 +29,7 @@ function App() {
       </Router>
       <BackToTop />
     </div>
+    </BrowserRouter>
   );
 }
 
