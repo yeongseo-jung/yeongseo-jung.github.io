@@ -17,7 +17,7 @@ function App() {
   // console.log = console.warn = console.error = () => {};
 
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className="app">
       <Router>
         <ScrollToTop/>
@@ -29,7 +29,7 @@ function App() {
       </Router>
       <BackToTop />
     </div>
-    </Router>
+    </HashRouter>
   );
 }
 
