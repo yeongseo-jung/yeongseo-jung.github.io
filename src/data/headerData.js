@@ -1,4 +1,4 @@
-import profile from '../assets/png/프로필.jpg'
+import profile from '../assets/png/증사.jpg'
 
 export const headerData = {
     name: '정영서',
