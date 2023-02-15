@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.53ad20df.chunk.css",
-    "main.js": "/static/js/main.a626b701.chunk.js",
-    "main.js.map": "/static/js/main.a626b701.chunk.js.map",
+    "main.js": "/static/js/main.89e26e4e.chunk.js",
+    "main.js.map": "/static/js/main.89e26e4e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aeb53b67.js",
     "runtime-main.js.map": "/static/js/runtime-main.aeb53b67.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -137,14 +137,14 @@
     "static/media/yellowTheme-boy.4579de4e.svg": "/static/media/yellowTheme-boy.4579de4e.svg",
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/static/media/yellowTheme-girl.a7ec3ad5.svg",
     "static/media/스부케.d1a7b442.png": "/static/media/스부케.d1a7b442.png",
-    "static/media/패션캐스트.1c60fe4b.png": "/static/media/패션캐스트.1c60fe4b.png",
-    "static/media/프로필.b34f4508.jpg": "/static/media/프로필.b34f4508.jpg"
+    "static/media/증사.517619af.jpg": "/static/media/증사.517619af.jpg",
+    "static/media/패션캐스트.1c60fe4b.png": "/static/media/패션캐스트.1c60fe4b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aeb53b67.js",
     "static/css/2.19627560.chunk.css",
     "static/js/2.c899ddf5.chunk.js",
     "static/css/main.53ad20df.chunk.css",
-    "static/js/main.a626b701.chunk.js"
+    "static/js/main.89e26e4e.chunk.js"
   ]
 }
